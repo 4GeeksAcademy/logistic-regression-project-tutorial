@@ -5,7 +5,7 @@
 	"solution": "https://github.com/4GeeksAcademy/logistic-regression-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "logistic regression", "machine-learning"],
+	"technologies": ["data-science", "logistic regression", "machine-learning", "python", "matplotlib", "pandas"],
 	"difficulty": "intermediate",
 	"syntax": "python",
 	"duration" : 2,
