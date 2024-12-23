@@ -11,5 +11,6 @@
 	"duration" : 2,
 	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
+	"autoPlay": "false",
 	"description" : "Logistic Regression is the ideal first algorithm to learn how to model. Without doing much cleaning, train your model and optimize until you are satified with your evaluation and results."
 }
